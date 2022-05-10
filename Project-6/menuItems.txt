@@ -1,0 +1,7 @@
+What would you like to do?
+
+1: Add podcast
+2: Remove podcast
+3: Print podcast list
+4: Save selection
+5: Exit
